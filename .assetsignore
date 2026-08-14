@@ -1,0 +1,6 @@
+.git
+.gitignore
+.wrangler
+wrangler.jsonc
+wrangler.toml
+node_modules
